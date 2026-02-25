@@ -23,7 +23,7 @@ await connectDB();
 await connectCloudinary();
 
 
-const allowOrigins = ["http://localhost:5173","https://green-card-frontend-nu.vercel.app"];
+const allowOrigins = ["http://localhost:5173","https://grocery-six-roan.vercel.app"];
 
 
 app.post(
